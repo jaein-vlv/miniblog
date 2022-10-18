@@ -1,10 +1,24 @@
-# Getting Started with Create React App
+# Mini Blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+이 프로젝트는 강의 [처음 만난 리액트](https://www.inflearn.com/course/%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8/dashboard) 의 미니 프로젝트입니다.
 
-## Available Scripts
+## 기능 리스트
 
-In the project directory, you can run:
+- 글 목록 보기 기능
+- 글 보기 기능
+- 댓글 보기 기능
+- 글 작성 기능
+- 댓글 작성 기능
+
+## Getting Started
+
+### `yarn install`
+
+의존성 모듈 설치
+```
+react-router-dom v6.4
+styled-components v5.3
+```
 
 ### `yarn start`
 
